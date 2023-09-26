@@ -1,7 +1,7 @@
-// 1001 A-B
-
-#include <iostream>
-
+// 10998 A¡¿B
+//
+//#include <iostream>
+//
 //int main()
 //{
 //
@@ -11,7 +11,7 @@
 //	std::cin >> A;
 //	std::cin >> B;
 //
-//	std::cout << A - B;
+//	std::cout << A * B;
 //
 //	return 0;
 //};
